@@ -48,7 +48,9 @@ You have to create the following:
   none, which needs to be completed for AquaMaps generation, which has already AquaMaps. 
  
  ### by the way the checking of the taxon extents should be done before the 2018 allocation run 
- the 2018 allocation run will be done in May. The taxon extent need to be checked. 
+ the 2018 allocation run will be done in May. The taxon extent need to be checked. This came up because of the 
+ gaps in Exocoetidae extent. It has missing distribution in the Atlantic parts. The map is not from Aquamaps 
+ and is not updated. So all extents need to be updated.  
  
  ### AquaMaps 
  Learn to program so you can shadow Nina. By October onwards there will be no Minderoo or big 
