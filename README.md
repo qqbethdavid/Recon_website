@@ -13,8 +13,7 @@ Simple area cell assignment is used in the allocation.
 In the recon website, you will only check the distribution tab to check for 
 how the extents look. 
 
-You can search using taxon key, common name or scientific name
-All the information in recon website is in Prod sau int
+You can search using taxon key, common name or scientific name. All the information in recon website is in Prod sau int.
 Any information entered into the recon website will automatically 
 show up in the Prod sau int database in Dbeaver
 
@@ -47,7 +46,7 @@ You have to create the following:
   This will need to be submitted to MLDP on a monthly basis. How the distribution is coming along. Which one has extents, which has 
   none, which needs to be completed for AquaMaps generation, which has already AquaMaps. 
  
- ### by the way the checking of the taxon extents should be done before the 2018 allocation run 
+ ### By the way the checking of the taxon extents should be done before the 2018 allocation run 
  the 2018 allocation run will be done in May. The taxon extent need to be checked. This came up because of the 
  gaps in Exocoetidae extent. It has missing distribution in the Atlantic parts. The map is not from Aquamaps 
  and is not updated. So all extents need to be updated.  
