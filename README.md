@@ -53,5 +53,6 @@ You have to create the following:
  ### AquaMaps 
  Learn to program so you can shadow Nina. By October onwards there will be no Minderoo or big 
  deliverables.  
+ Beth and Armi expected to learn the AquaMaps process. 
  
  
