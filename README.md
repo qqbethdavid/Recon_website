@@ -20,6 +20,17 @@ show up in the Prod sau int database in Dbeaver
 To check the extents click view distribution or extent. 
 
 
+###About the price table: The case of Robin Gutting map request asking initially for 
+###price per cell
+
+I was only able to give Robin the catch sum per cell in her area of interest. She did 
+ask about the 'real value for 2010' but prices in SAU are still being worked on. There is 
+a price per species and this changes per year (e.g. $1 for taxon key 1111). The price 
+changes also depending on the end use (end use e.g. discards). So if you have 4,000 tonnes 
+for this cell you can multiply that with the base price for that species. But like I said 
+this is still in the works.
+
+
 ## Discussion on what to do with the taxon records 
 You have to create the following: 
 ### Genera list 
