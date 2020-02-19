@@ -19,6 +19,13 @@ show up in the Prod sau int database in Dbeaver
 
 To check the extents click view distribution or extent. 
 
+### Where to get the latest updated catches 
+You can find this in QA sau. 
+QA sau.v_fact_table if you need only all the catches without the cells.
+QA sau.cell_catch if you need all the catches along with the cells. 
+Martin talked about the area table. This table I presume contains the area in m2 of the half degree cells. 
+
+
 
 ### About the price table: The case of Robin Gutting map request asking initially for 
 ### price per cell
