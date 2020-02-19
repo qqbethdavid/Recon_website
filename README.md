@@ -20,8 +20,8 @@ show up in the Prod sau int database in Dbeaver
 To check the extents click view distribution or extent. 
 
 
-###About the price table: The case of Robin Gutting map request asking initially for 
-###price per cell
+### About the price table: The case of Robin Gutting map request asking initially for 
+### price per cell
 
 I was only able to give Robin the catch sum per cell in her area of interest. She did 
 ask about the 'real value for 2010' but prices in SAU are still being worked on. There is 
