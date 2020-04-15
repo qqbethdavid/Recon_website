@@ -44,6 +44,8 @@ You have to create the following:
         The genera list consists of species less than 10,000 tonnes over a period of 67 years.
         or a total of 67 years of catch. All species less than 10,000 tonnes are included in the 
         Genera list. 
+        
+        For the genera prioritize those which have a higher catch but less number of species in them. 
 
 ### Species list 
         The species list consist of greater than or equal to (>=) 10,000 tonnes. You will get this 
