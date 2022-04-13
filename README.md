@@ -19,10 +19,12 @@ show up in the Prod sau int database in Dbeaver
 
 To check the extents click view distribution or extent. 
 
-## How the data cycles in databases during allocation
+
+### How the data cycles in databases during allocation
 Allocation run goes: Prod sau_int --> Merlin --> QA sau --> Prod sau
 
 Merlin doesn't use the tables in Prod sau (web). It is a copy of QA sau, Martin verified.
+
 
 ### Where to get the latest updated catches 
 You can find this in QA sau. 
